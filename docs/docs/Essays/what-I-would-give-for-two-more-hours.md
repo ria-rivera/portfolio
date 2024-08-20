@@ -1,0 +1,21 @@
+# What I would give for two more hours
+
+When I'm asked what I like about living in Taiwan, the efficient transportation system often tops the list. With its MRT lines, buses, and railway systems, getting around the island can be quite easy. Of course, only someone who's had to deal with less than ideal commuting experiences can fully appreciate the relief that comes with a functioning transport network.
+
+If I'm asked to elaborate, I tell the curious inquirer about how commuting to work used to take nearly two hours each way, five days a week. Can you imagine? That's roughly 20 hours per week—enough time to hold a part-time job. Interestingly, though, I look back at those years with fondness. Not because the commute itself was memorable (don't get me started on the rush hour traffic), but because I had the best commute buddy.
+
+See, those two years when I was spending so much time on the road, were the same two years that Mama and I worked in buildings that shared the same back street. Our buildings basically had their back doors facing each other, and all we had to do was go through them and meet in the middle of the street. So of course, it only made sense that we commuted to and from work together on most days. Sometimes, we even met up for lunch at their office cafeteria or snuck in a quick grocery run in the middle of a work day.
+
+Mama worked for the same company for most of my life. They renamed the company and moved buildings at one point, but apart from that, she was a lifer. She probably would have worked well past retirement age if only the company didn't downsize and she was asked to accept an early retirement package.
+
+Looking back and knowing what I know now, those two years are irreplaceable. I am so grateful for all the hours we spent together: squeezed into a tricycle, queueing for the shuttle under the rain, sitting in traffic, walking to Landmark under the midday sun, sitting in silence at the back of a Toyota FX, holding hands. Of all the things I miss about Mama, her warm hand tops that list.
+
+I remember how she used to hold my hand up and trace my fingers in admiration. She said that my slender fingers are beautiful, especially when compared to her shapely ones. She joked that hers were shaped like candles and she wished they were thinner. I don't know if I ever told her, but I loved those fingers. I loved the way they felt full and strong in the palm of my smaller hand. I loved how their warmth made me feel secure. Even when she got sick and she started holding on to our arms for support, I didn't feel any less loved under my Mama's touch.
+
+Her early retirement and the sudden sickness came years after those two years that we were working on the same street. I had no clue about the drastic turn life would take while I was living that chapter of my life. All I knew at that time was that the commute was terrible, but spending it with Mama made everything better.
+
+Eventually, I moved on from that job while she carried on with unwavering loyalty. I cut my commute in half while she continued with the wearisome trek—alone again like she was before my short stint as her commute buddy. She soldiered on with very little complaints. I’d like to think that she missed sharing the commutes with me. I don’t think she ever said it out loud, but there were signs—bringing home my favorites from the Jollijeep food stalls or a dish I particularly enjoyed from the office cafeteria. She never played favorites, but she always found ways to make us feel loved.
+
+There are a lot of things I wish I did differently in my young adult life, but accepting that job and commuting to work with Mama is one thing I wouldn't change. As cliché as it sounds, I really would give anything to be able to sit in traffic and experience that dreadful commute once again. Even if it’s just for two more hours, I would willingly trade speed and efficiency for a chance to feel Mama’s hand in mine.
+
+_This [Substack post](https://riarivera.substack.com/p/what-i-would-give-for-two-more-hours) was published on May 13, 2024._
