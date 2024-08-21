@@ -24,7 +24,7 @@ const sidebars = {
     {
       type: 'category',
       label: 'About',
-      items: ['docs/intro'],
+      items: ['docs/about'],
     },
   ],
    */
