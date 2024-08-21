@@ -99,15 +99,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '045'),
+    component: ComponentCreator('/docs', 'b29'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'd8d'),
+        component: ComponentCreator('/docs', 'ca5'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '499'),
+            component: ComponentCreator('/docs', '10c'),
             routes: [
               {
                 path: '/docs/Essays/about-essays',
@@ -124,12 +124,6 @@ export default [
               {
                 path: '/docs/Essays/what-I-would-give-for-two-more-hours',
                 component: ComponentCreator('/docs/Essays/what-I-would-give-for-two-more-hours', '569'),
-                exact: true,
-                sidebar: "aboutSidebar"
-              },
-              {
-                path: '/docs/experience',
-                component: ComponentCreator('/docs/experience', '821'),
                 exact: true,
                 sidebar: "aboutSidebar"
               },

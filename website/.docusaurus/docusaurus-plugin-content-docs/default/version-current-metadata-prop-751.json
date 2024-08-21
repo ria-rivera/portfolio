@@ -17,13 +17,6 @@
         "unlisted": false
       },
       {
-        "type": "link",
-        "label": "Experience",
-        "href": "/docs/experience",
-        "docId": "experience",
-        "unlisted": false
-      },
-      {
         "type": "category",
         "label": "Essays",
         "collapsible": true,
@@ -136,12 +129,6 @@
       "id": "Essays/what-I-would-give-for-two-more-hours",
       "title": "What I Would Give For Two More Hours",
       "description": "When I'm asked what I like about living in Taiwan, the efficient transportation system often tops the list. With its MRT lines, buses, and railway systems, getting around the island can be quite easy. Of course, only someone who's had to deal with less than ideal commuting experiences can fully appreciate the relief that comes with a functioning transport network.",
-      "sidebar": "aboutSidebar"
-    },
-    "experience": {
-      "id": "experience",
-      "title": "Experience",
-      "description": "Summary",
       "sidebar": "aboutSidebar"
     },
     "Food and Travel/about-food-travel": {

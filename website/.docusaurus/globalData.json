@@ -26,11 +26,6 @@
               "sidebar": "aboutSidebar"
             },
             {
-              "id": "experience",
-              "path": "/docs/experience",
-              "sidebar": "aboutSidebar"
-            },
-            {
               "id": "Food and Travel/about-food-travel",
               "path": "/docs/Food and Travel/about-food-travel",
               "sidebar": "aboutSidebar"
