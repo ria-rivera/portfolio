@@ -101,7 +101,7 @@ const config = {
 
 export default {
   url: 'https://riarivera-portfolio.netlify.app', // Url to your site with no trailing slash
-  baseUrl: '/', // Base directory of your site relative to your repo
+  baseUrl: '/portfolio', // Base directory of your site relative to your repo
   // ...
 };
 
