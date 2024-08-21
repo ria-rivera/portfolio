@@ -15,9 +15,9 @@
           "editUrlLocalized": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/i18n/en/docusaurus-plugin-content-docs/current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/Users/riarivera/Documents/work/port4/portfolio/docs/sidebars.js",
-          "contentPath": "/Users/riarivera/Documents/work/port4/portfolio/docs/docs",
-          "contentPathLocalized": "/Users/riarivera/Documents/work/port4/portfolio/docs/i18n/en/docusaurus-plugin-content-docs/current",
+          "sidebarFilePath": "/Users/riarivera/Documents/work/port4/portfolio/website/sidebars.js",
+          "contentPath": "/Users/riarivera/Documents/work/port4/portfolio/website/docs",
+          "contentPathLocalized": "/Users/riarivera/Documents/work/port4/portfolio/website/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
               "id": "Essays/about-essays",

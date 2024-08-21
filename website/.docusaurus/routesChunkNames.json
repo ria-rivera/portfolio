@@ -1,1 +1,265 @@
-{}
+{
+  "/__docusaurus/debug-4e2": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-441-fd1"
+    }
+  },
+  "/__docusaurus/debug/config-ee3": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-441-fd1"
+    }
+  },
+  "/__docusaurus/debug/content-5be": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-441-fd1"
+    },
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+  },
+  "/__docusaurus/debug/globalData-a48": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-441-fd1"
+    }
+  },
+  "/__docusaurus/debug/metadata-051": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-441-fd1"
+    }
+  },
+  "/__docusaurus/debug/registry-6df": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-441-fd1"
+    }
+  },
+  "/__docusaurus/debug/routes-6a3": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-441-fd1"
+    }
+  },
+  "/blog-0f6": {
+    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__context": {
+      "plugin": "plugin---bloge-86-069"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-766-e3c"
+      },
+      {
+        "content": "content---blogf-4-f-cd7"
+      },
+      {
+        "content": "content---blog-871-381"
+      },
+      {
+        "content": "content---blog-925-e00"
+      }
+    ],
+    "metadata": "metadata---blogb-2-b-df1"
+  },
+  "/blog/archive-ac3": {
+    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
+    "__context": {
+      "plugin": "plugin---bloge-86-069"
+    },
+    "archive": "archive---blog-archiveb-2-f-393"
+  },
+  "/blog/first-blog-post-ebf": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-first-blog-postace-ee5"
+      },
+      "plugin": "plugin---bloge-86-069"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-first-blog-poste-27-4a1"
+  },
+  "/blog/long-blog-post-148": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-first-blog-postace-ee5"
+      },
+      "plugin": "plugin---bloge-86-069"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-long-blog-post-736-bc7"
+  },
+  "/blog/mdx-blog-post-a6b": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-first-blog-postace-ee5"
+      },
+      "plugin": "plugin---bloge-86-069"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-mdx-blog-post-593-37b"
+  },
+  "/blog/tags-49e": {
+    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
+    "__context": {
+      "plugin": "plugin---bloge-86-069"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "tags": "tags---blog-tagsa-70-da2"
+  },
+  "/blog/tags/docusaurus-baa": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---bloge-86-069"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-766-e3c"
+      },
+      {
+        "content": "content---blogf-4-f-cd7"
+      },
+      {
+        "content": "content---blog-871-381"
+      },
+      {
+        "content": "content---blog-925-e00"
+      }
+    ],
+    "tag": "tag---blog-tags-docusaurusa-80-728",
+    "listMetadata": "listMetadata---blog-tags-docusaurus-608-c09"
+  },
+  "/blog/tags/facebook-680": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---bloge-86-069"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-766-e3c"
+      }
+    ],
+    "tag": "tag---blog-tags-facebook-031-c52",
+    "listMetadata": "listMetadata---blog-tags-facebook-096-d31"
+  },
+  "/blog/tags/hello-378": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---bloge-86-069"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-766-e3c"
+      },
+      {
+        "content": "content---blog-871-381"
+      }
+    ],
+    "tag": "tag---blog-tags-hello-30-a-bed",
+    "listMetadata": "listMetadata---blog-tags-hello-664-70a"
+  },
+  "/blog/tags/hola-7c2": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---bloge-86-069"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-925-e00"
+      }
+    ],
+    "tag": "tag---blog-tags-holae-16-18a",
+    "listMetadata": "listMetadata---blog-tags-hola-4-c-9-a24"
+  },
+  "/blog/welcome-bed": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-first-blog-postace-ee5"
+      },
+      "plugin": "plugin---bloge-86-069"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-welcomed-9-f-ffb"
+  },
+  "/markdown-page-eda": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---markdown-page-102-fac"
+    },
+    "content": "content---markdown-page-393-028"
+  },
+  "/docs-b29": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---docsf-10-2a3"
+    }
+  },
+  "/docs-ca5": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "version": "version---docs-935-398"
+  },
+  "/docs-10c": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/docs/Essays/about-essays-4db": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-essays-about-essaysd-47-207"
+  },
+  "/docs/Essays/training-wheels-not-included-201": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-essays-training-wheels-not-includedbdb-f93"
+  },
+  "/docs/Essays/what-I-would-give-for-two-more-hours-569": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-essays-what-i-would-give-for-two-more-hoursd-44-4ab"
+  },
+  "/docs/Food and Travel/about-food-travel-743": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-food-and-travel-about-food-travelf-8-f-886"
+  },
+  "/docs/Food and Travel/every-days-a-Sunday-at-Zuni-4df": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-food-and-travel-every-days-a-sunday-at-zuni-4-bb-399"
+  },
+  "/docs/Food and Travel/up-down-and-around-phan-thiet-city-209": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-food-and-travel-up-down-and-around-phan-thiet-cityc-6-f-86f"
+  },
+  "/docs/intro-912": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-intro-0-e-3-be1"
+  },
+  "/docs/Technology/about-tech-51a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-technology-about-tech-482-bf8"
+  },
+  "/docs/Technology/blackhat-SEO-attacks-use-fake-YouTube-15b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-technology-blackhat-seo-attacks-use-fake-you-tube-93-e-acf"
+  },
+  "/docs/Technology/mind-blowing-chips-b35": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-technology-mind-blowing-chips-522-de1"
+  },
+  "/docs/Technology/spam-scams-and-other-social-media-threats-d51": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-technology-spam-scams-and-other-social-media-threats-601-562"
+  },
+  "/-a57": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__context": {
+      "plugin": "plugin---markdown-page-102-fac"
+    },
+    "config": "config---5-e-9-4f3"
+  }
+}

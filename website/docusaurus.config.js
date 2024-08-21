@@ -13,15 +13,15 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://riarivera-portfolio.netlify.app',
+  url: 'https://riarivera.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: 'https://riarivera-portfolio.netlify.app',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'ria-rivera', // Usually your GitHub org/user name.
-  projectName: 'portfolio', // Usually your repo name.
+  projectName: 'website', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -99,15 +99,4 @@ const config = {
     }),
 };
 
-export default {
-  url: 'https://riarivera-portfolio.netlify.app', // Url to your site with no trailing slash
-  baseUrl: '/portfolio', // Base directory of your site relative to your repo
-  // ...
-};
-
-module.exports = {
-  title: "My Portfolio",
-  baseUrl: '/', // specify the base URL of your site
-  url: 'https://riarivera-portfolio.netlify.app' // specify the URL of your site
-  // other configuration options
-};
+export default config;

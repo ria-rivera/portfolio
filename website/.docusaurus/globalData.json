@@ -1,1 +1,83 @@
-{}
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "Essays/about-essays",
+              "path": "/docs/Essays/about-essays",
+              "sidebar": "aboutSidebar"
+            },
+            {
+              "id": "Essays/training-wheels-not-included",
+              "path": "/docs/Essays/training-wheels-not-included",
+              "sidebar": "aboutSidebar"
+            },
+            {
+              "id": "Essays/what-I-would-give-for-two-more-hours",
+              "path": "/docs/Essays/what-I-would-give-for-two-more-hours",
+              "sidebar": "aboutSidebar"
+            },
+            {
+              "id": "Food and Travel/about-food-travel",
+              "path": "/docs/Food and Travel/about-food-travel",
+              "sidebar": "aboutSidebar"
+            },
+            {
+              "id": "Food and Travel/every-days-a-Sunday-at-Zuni",
+              "path": "/docs/Food and Travel/every-days-a-Sunday-at-Zuni",
+              "sidebar": "aboutSidebar"
+            },
+            {
+              "id": "Food and Travel/up-down-and-around-phan-thiet-city",
+              "path": "/docs/Food and Travel/up-down-and-around-phan-thiet-city",
+              "sidebar": "aboutSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "aboutSidebar"
+            },
+            {
+              "id": "Technology/about-tech",
+              "path": "/docs/Technology/about-tech",
+              "sidebar": "aboutSidebar"
+            },
+            {
+              "id": "Technology/blackhat-SEO-attacks-use-fake-YouTube",
+              "path": "/docs/Technology/blackhat-SEO-attacks-use-fake-YouTube",
+              "sidebar": "aboutSidebar"
+            },
+            {
+              "id": "Technology/mind-blowing-chips",
+              "path": "/docs/Technology/mind-blowing-chips",
+              "sidebar": "aboutSidebar"
+            },
+            {
+              "id": "Technology/spam-scams-and-other-social-media-threats",
+              "path": "/docs/Technology/spam-scams-and-other-social-media-threats",
+              "sidebar": "aboutSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "aboutSidebar": {
+              "link": {
+                "path": "/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}
