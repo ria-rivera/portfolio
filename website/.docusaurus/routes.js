@@ -99,16 +99,28 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'b29'),
+    component: ComponentCreator('/docs', 'ca5'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'ca5'),
+        component: ComponentCreator('/docs', 'c63'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '10c'),
+            component: ComponentCreator('/docs', '961'),
             routes: [
+              {
+                path: '/docs/About/',
+                component: ComponentCreator('/docs/About/', '134'),
+                exact: true,
+                sidebar: "aboutSidebar"
+              },
+              {
+                path: '/docs/About/experience',
+                component: ComponentCreator('/docs/About/experience', '22a'),
+                exact: true,
+                sidebar: "aboutSidebar"
+              },
               {
                 path: '/docs/Essays/about-essays',
                 component: ComponentCreator('/docs/Essays/about-essays', '4db'),
@@ -142,12 +154,6 @@ export default [
               {
                 path: '/docs/Food and Travel/up-down-and-around-phan-thiet-city',
                 component: ComponentCreator('/docs/Food and Travel/up-down-and-around-phan-thiet-city', '209'),
-                exact: true,
-                sidebar: "aboutSidebar"
-              },
-              {
-                path: '/docs/intro',
-                component: ComponentCreator('/docs/intro', '912'),
                 exact: true,
                 sidebar: "aboutSidebar"
               },

@@ -20,6 +20,53 @@
           "contentPathLocalized": "/Users/riarivera/Documents/work/port4/portfolio/website/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
+              "id": "About/about",
+              "title": "About",
+              "description": "Hello, I'm Ria. Thanks for dropping by!",
+              "source": "@site/docs/About/about.md",
+              "sourceDirName": "About",
+              "slug": "/About/",
+              "permalink": "/docs/About/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/About/about.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "aboutSidebar",
+              "next": {
+                "title": "Experience",
+                "permalink": "/docs/About/experience"
+              }
+            },
+            {
+              "id": "About/experience",
+              "title": "Experience",
+              "description": "Summary",
+              "source": "@site/docs/About/experience.md",
+              "sourceDirName": "About",
+              "slug": "/About/experience",
+              "permalink": "/docs/About/experience",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/About/experience.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "aboutSidebar",
+              "previous": {
+                "title": "About",
+                "permalink": "/docs/About/"
+              },
+              "next": {
+                "title": "Essays",
+                "permalink": "/docs/Essays/about-essays"
+              }
+            },
+            {
               "id": "Essays/about-essays",
               "title": "Essays",
               "description": "Creative nonfiction helped me find my voice as a young writer. These days, I use it to tell stories, to honor loved ones, and to make sense of my world.",
@@ -35,8 +82,8 @@
               "frontMatter": {},
               "sidebar": "aboutSidebar",
               "previous": {
-                "title": "About",
-                "permalink": "/docs/intro"
+                "title": "Experience",
+                "permalink": "/docs/About/experience"
               },
               "next": {
                 "title": "Training Wheels Not Included",
@@ -164,29 +211,6 @@
               }
             },
             {
-              "id": "intro",
-              "title": "About",
-              "description": "Hello, I'm Ria. Thanks for dropping by!",
-              "source": "@site/docs/intro.md",
-              "sourceDirName": ".",
-              "slug": "/intro",
-              "permalink": "/docs/intro",
-              "draft": false,
-              "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1
-              },
-              "sidebar": "aboutSidebar",
-              "next": {
-                "title": "Essays",
-                "permalink": "/docs/Essays/about-essays"
-              }
-            },
-            {
               "id": "Technology/about-tech",
               "title": "Technology",
               "description": "I have done the full gamut of technical writing: from writing articles for a tech magazine, to doing technical marketing, and eventually focusing on technical documentation and UX writing.",
@@ -283,8 +307,20 @@
           "sidebars": {
             "aboutSidebar": [
               {
-                "type": "doc",
-                "id": "intro"
+                "type": "category",
+                "label": "About",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "About/experience"
+                  }
+                ],
+                "link": {
+                  "type": "doc",
+                  "id": "About/about"
+                }
               },
               {
                 "type": "category",

@@ -8,8 +8,18 @@
           "label": "Next",
           "isLast": true,
           "path": "/docs",
-          "mainDocId": "intro",
+          "mainDocId": "About/about",
           "docs": [
+            {
+              "id": "About/about",
+              "path": "/docs/About/",
+              "sidebar": "aboutSidebar"
+            },
+            {
+              "id": "About/experience",
+              "path": "/docs/About/experience",
+              "sidebar": "aboutSidebar"
+            },
             {
               "id": "Essays/about-essays",
               "path": "/docs/Essays/about-essays",
@@ -41,11 +51,6 @@
               "sidebar": "aboutSidebar"
             },
             {
-              "id": "intro",
-              "path": "/docs/intro",
-              "sidebar": "aboutSidebar"
-            },
-            {
               "id": "Technology/about-tech",
               "path": "/docs/Technology/about-tech",
               "sidebar": "aboutSidebar"
@@ -70,8 +75,8 @@
           "sidebars": {
             "aboutSidebar": {
               "link": {
-                "path": "/docs/intro",
-                "label": "intro"
+                "path": "/docs/About/",
+                "label": "About"
               }
             }
           }

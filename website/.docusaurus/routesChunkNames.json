@@ -198,18 +198,26 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-b29": {
+  "/docs-ca5": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsf-10-2a3"
     }
   },
-  "/docs-ca5": {
+  "/docs-c63": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "version": "version---docs-935-398"
   },
-  "/docs-10c": {
+  "/docs-961": {
     "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/docs/About/-134": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-about-a-97-58f"
+  },
+  "/docs/About/experience-22a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-about-experiencea-6-f-a6d"
   },
   "/docs/Essays/about-essays-4db": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -234,10 +242,6 @@
   "/docs/Food and Travel/up-down-and-around-phan-thiet-city-209": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-food-and-travel-up-down-and-around-phan-thiet-cityc-6-f-86f"
-  },
-  "/docs/intro-912": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-intro-0-e-3-be1"
   },
   "/docs/Technology/about-tech-51a": {
     "__comp": "__comp---theme-doc-item-178-a40",

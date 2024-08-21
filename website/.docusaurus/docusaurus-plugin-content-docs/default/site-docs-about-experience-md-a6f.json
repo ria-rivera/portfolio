@@ -1,0 +1,24 @@
+{
+  "id": "About/experience",
+  "title": "Experience",
+  "description": "Summary",
+  "source": "@site/docs/About/experience.md",
+  "sourceDirName": "About",
+  "slug": "/About/experience",
+  "permalink": "/docs/About/experience",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/About/experience.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "aboutSidebar",
+  "previous": {
+    "title": "About",
+    "permalink": "/docs/About/"
+  },
+  "next": {
+    "title": "Essays",
+    "permalink": "/docs/Essays/about-essays"
+  }
+}

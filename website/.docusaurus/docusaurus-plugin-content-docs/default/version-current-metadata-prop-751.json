@@ -10,11 +10,20 @@
   "docsSidebars": {
     "aboutSidebar": [
       {
-        "type": "link",
+        "type": "category",
         "label": "About",
-        "href": "/docs/intro",
-        "docId": "intro",
-        "unlisted": false
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Experience",
+            "href": "/docs/About/experience",
+            "docId": "About/experience",
+            "unlisted": false
+          }
+        ],
+        "href": "/docs/About/"
       },
       {
         "type": "category",
@@ -113,6 +122,18 @@
     ]
   },
   "docs": {
+    "About/about": {
+      "id": "About/about",
+      "title": "About",
+      "description": "Hello, I'm Ria. Thanks for dropping by!",
+      "sidebar": "aboutSidebar"
+    },
+    "About/experience": {
+      "id": "About/experience",
+      "title": "Experience",
+      "description": "Summary",
+      "sidebar": "aboutSidebar"
+    },
     "Essays/about-essays": {
       "id": "Essays/about-essays",
       "title": "Essays",
@@ -147,12 +168,6 @@
       "id": "Food and Travel/up-down-and-around-phan-thiet-city",
       "title": "Up, Down, and Around Phan Thiet City",
       "description": "“One hundred steps left!” I muttered, stopping momentarily to catch my breath. Sneaking a peek at Nga, my new Vietnamese friend, I noticed that she had beads of sweat forming on her forehead. Apparently, I wasn't the only one who lacked exercise.",
-      "sidebar": "aboutSidebar"
-    },
-    "intro": {
-      "id": "intro",
-      "title": "About",
-      "description": "Hello, I'm Ria. Thanks for dropping by!",
       "sidebar": "aboutSidebar"
     },
     "Technology/about-tech": {
