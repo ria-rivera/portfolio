@@ -1,0 +1,183 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "aboutSidebar": [
+      {
+        "type": "link",
+        "label": "About",
+        "href": "/ria-rivera/portfolio/docs/intro",
+        "docId": "intro",
+        "unlisted": false
+      },
+      {
+        "type": "category",
+        "label": "Essays",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Essays",
+            "href": "/ria-rivera/portfolio/docs/Essays/about-essays",
+            "docId": "Essays/about-essays",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Training wheels not included",
+            "href": "/ria-rivera/portfolio/docs/Essays/training-wheels-not-included",
+            "docId": "Essays/training-wheels-not-included",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "What I would give for two more hours",
+            "href": "/ria-rivera/portfolio/docs/Essays/what-I-would-give-for-two-more-hours",
+            "docId": "Essays/what-I-would-give-for-two-more-hours",
+            "unlisted": false
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Food and Travel",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Food and Travel",
+            "href": "/ria-rivera/portfolio/docs/Food and Travel/about-food-travel",
+            "docId": "Food and Travel/about-food-travel",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Every day's a Sunday at Zuni",
+            "href": "/ria-rivera/portfolio/docs/Food and Travel/every-days-a-Sunday-at-Zuni",
+            "docId": "Food and Travel/every-days-a-Sunday-at-Zuni",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Up, Down, and Around Phan Thiet City",
+            "href": "/ria-rivera/portfolio/docs/Food and Travel/up-down-and-around-phan-thiet-city",
+            "docId": "Food and Travel/up-down-and-around-phan-thiet-city",
+            "unlisted": false
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Technology",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Technology",
+            "href": "/ria-rivera/portfolio/docs/Technology/about-tech",
+            "docId": "Technology/about-tech",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Blackhat SEO Attacks Use Fake YouTube pages and Flash Installers",
+            "href": "/ria-rivera/portfolio/docs/Technology/blackhat-SEO-attacks-use-fake-YouTube",
+            "docId": "Technology/blackhat-SEO-attacks-use-fake-YouTube",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Mind-blowing Chips",
+            "href": "/ria-rivera/portfolio/docs/Technology/mind-blowing-chips",
+            "docId": "Technology/mind-blowing-chips",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Spam, Scams and Other Social Media Threats",
+            "href": "/ria-rivera/portfolio/docs/Technology/spam-scams-and-other-social-media-threats",
+            "docId": "Technology/spam-scams-and-other-social-media-threats",
+            "unlisted": false
+          }
+        ]
+      }
+    ]
+  },
+  "docs": {
+    "Essays/about-essays": {
+      "id": "Essays/about-essays",
+      "title": "Essays",
+      "description": "Creative nonfiction helped me find my voice as a young writer. These days, I use it to tell stories, to honor loved ones, and to make sense of my world.",
+      "sidebar": "aboutSidebar"
+    },
+    "Essays/training-wheels-not-included": {
+      "id": "Essays/training-wheels-not-included",
+      "title": "Training wheels not included",
+      "description": "Most kids get their first bicycles at age 5. I got mine at 30. For the longest time, I was secretly envious of bikers. But after years of not knowing how, I'd resigned myself to the fact that I couldn't ride a bike.",
+      "sidebar": "aboutSidebar"
+    },
+    "Essays/what-I-would-give-for-two-more-hours": {
+      "id": "Essays/what-I-would-give-for-two-more-hours",
+      "title": "What I would give for two more hours",
+      "description": "When I'm asked what I like about living in Taiwan, the efficient transportation system often tops the list. With its MRT lines, buses, and railway systems, getting around the island can be quite easy. Of course, only someone who's had to deal with less than ideal commuting experiences can fully appreciate the relief that comes with a functioning transport network.",
+      "sidebar": "aboutSidebar"
+    },
+    "Food and Travel/about-food-travel": {
+      "id": "Food and Travel/about-food-travel",
+      "title": "Food and Travel",
+      "description": "I was a travel writer in a previous life, where I visited restaurants and stayed in hotels, and then I wrote about those awesome experiences.",
+      "sidebar": "aboutSidebar"
+    },
+    "Food and Travel/every-days-a-Sunday-at-Zuni": {
+      "id": "Food and Travel/every-days-a-Sunday-at-Zuni",
+      "title": "Every day's a Sunday at Zuni",
+      "description": "Something has to be said about Sundays and dinners with the family. A tradition that is passed down from generation to generation, Sunday dinners remain and continue to be a constant in many families. Perhaps it's the knowledge that it's the one day of the week when work and school can temporarily be forgotten that makes Sundays something to look forward to. In the Philippines and around the world, Sundays often stand for all things warm, cozy, and delectable.",
+      "sidebar": "aboutSidebar"
+    },
+    "Food and Travel/up-down-and-around-phan-thiet-city": {
+      "id": "Food and Travel/up-down-and-around-phan-thiet-city",
+      "title": "Up, Down, and Around Phan Thiet City",
+      "description": "“One hundred steps left!” I muttered, stopping momentarily to catch my breath. Sneaking a peek at Nga, my new Vietnamese friend, I noticed that she had beads of sweat forming on her forehead. Apparently, I wasn't the only one who lacked exercise.",
+      "sidebar": "aboutSidebar"
+    },
+    "intro": {
+      "id": "intro",
+      "title": "About",
+      "description": "Hello, I'm Ria. Thanks for dropping by!",
+      "sidebar": "aboutSidebar"
+    },
+    "Technology/about-tech": {
+      "id": "Technology/about-tech",
+      "title": "Technology",
+      "description": "I have done the full gamut of technical writing: from writing articles for a tech magazine, to doing technical marketing, and eventually focusing on technical documentation and UX writing.",
+      "sidebar": "aboutSidebar"
+    },
+    "Technology/blackhat-SEO-attacks-use-fake-YouTube": {
+      "id": "Technology/blackhat-SEO-attacks-use-fake-YouTube",
+      "title": "Blackhat SEO Attacks Use Fake YouTube pages and Flash Installers",
+      "description": "How do users get this Web threat?",
+      "sidebar": "aboutSidebar"
+    },
+    "Technology/mind-blowing-chips": {
+      "id": "Technology/mind-blowing-chips",
+      "title": "Mind-blowing Chips",
+      "description": "For thousands of paralytics and quadriplegics, the hope of being able to move and function again like they did before is a far-off dream. But unknown to many, this dream may be realized sooner than they think.",
+      "sidebar": "aboutSidebar"
+    },
+    "Technology/spam-scams-and-other-social-media-threats": {
+      "id": "Technology/spam-scams-and-other-social-media-threats",
+      "title": "Spam, Scams and Other Social Media Threats",
+      "description": "People’s lives are becoming more intertwined due to online interactions over time. While the Internet provides several options for users to create and maintain relationships, social media sites make it even easier to do so. Unfortunately, time spent on social media sites opens windows of opportunity for cybercriminals and online threats.",
+      "sidebar": "aboutSidebar"
+    }
+  }
+}

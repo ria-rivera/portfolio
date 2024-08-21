@@ -1,0 +1,265 @@
+{
+  "/ria-rivera/portfolio/-78d": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__context": {
+      "plugin": "plugin---ria-rivera-portfolio-c-5-c-a42"
+    },
+    "config": "config---ria-rivera-portfolio-5-e-9-aed"
+  },
+  "/ria-rivera/portfolio/__docusaurus/debug-5f1": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---ria-rivera-portfolio-docusaurus-debug-564-8cf"
+    }
+  },
+  "/ria-rivera/portfolio/__docusaurus/debug/config-e6e": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---ria-rivera-portfolio-docusaurus-debug-564-8cf"
+    }
+  },
+  "/ria-rivera/portfolio/__docusaurus/debug/content-524": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---ria-rivera-portfolio-docusaurus-debug-564-8cf"
+    },
+    "allContent": "allContent---ria-rivera-portfolio-docusaurus-debug-content-246-f2c"
+  },
+  "/ria-rivera/portfolio/__docusaurus/debug/globalData-e29": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---ria-rivera-portfolio-docusaurus-debug-564-8cf"
+    }
+  },
+  "/ria-rivera/portfolio/__docusaurus/debug/metadata-8fd": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---ria-rivera-portfolio-docusaurus-debug-564-8cf"
+    }
+  },
+  "/ria-rivera/portfolio/__docusaurus/debug/registry-f6f": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---ria-rivera-portfolio-docusaurus-debug-564-8cf"
+    }
+  },
+  "/ria-rivera/portfolio/__docusaurus/debug/routes-feb": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---ria-rivera-portfolio-docusaurus-debug-564-8cf"
+    }
+  },
+  "/ria-rivera/portfolio/blog-1ce": {
+    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__context": {
+      "plugin": "plugin---ria-rivera-portfolio-blogbb-7-d87"
+    },
+    "sidebar": "sidebar---ria-rivera-portfolio-blog-814-45a",
+    "items": [
+      {
+        "content": "content---ria-rivera-portfolio-blog-766-b10"
+      },
+      {
+        "content": "content---ria-rivera-portfolio-blogf-4-f-236"
+      },
+      {
+        "content": "content---ria-rivera-portfolio-blog-871-fef"
+      },
+      {
+        "content": "content---ria-rivera-portfolio-blog-925-8fc"
+      }
+    ],
+    "metadata": "metadata---ria-rivera-portfolio-blog-95-c-d19"
+  },
+  "/ria-rivera/portfolio/blog/archive-917": {
+    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
+    "__context": {
+      "plugin": "plugin---ria-rivera-portfolio-blogbb-7-d87"
+    },
+    "archive": "archive---ria-rivera-portfolio-blog-archivee-75-ff7"
+  },
+  "/ria-rivera/portfolio/blog/first-blog-post-d47": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---ria-rivera-portfolio-blog-first-blog-postace-f73"
+      },
+      "plugin": "plugin---ria-rivera-portfolio-blogbb-7-d87"
+    },
+    "sidebar": "sidebar---ria-rivera-portfolio-blog-814-45a",
+    "content": "content---ria-rivera-portfolio-blog-first-blog-poste-27-a06"
+  },
+  "/ria-rivera/portfolio/blog/long-blog-post-9ac": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---ria-rivera-portfolio-blog-first-blog-postace-f73"
+      },
+      "plugin": "plugin---ria-rivera-portfolio-blogbb-7-d87"
+    },
+    "sidebar": "sidebar---ria-rivera-portfolio-blog-814-45a",
+    "content": "content---ria-rivera-portfolio-blog-long-blog-post-736-c6d"
+  },
+  "/ria-rivera/portfolio/blog/mdx-blog-post-381": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---ria-rivera-portfolio-blog-first-blog-postace-f73"
+      },
+      "plugin": "plugin---ria-rivera-portfolio-blogbb-7-d87"
+    },
+    "sidebar": "sidebar---ria-rivera-portfolio-blog-814-45a",
+    "content": "content---ria-rivera-portfolio-blog-mdx-blog-post-593-c72"
+  },
+  "/ria-rivera/portfolio/blog/tags-200": {
+    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
+    "__context": {
+      "plugin": "plugin---ria-rivera-portfolio-blogbb-7-d87"
+    },
+    "sidebar": "sidebar---ria-rivera-portfolio-blog-814-45a",
+    "tags": "tags---ria-rivera-portfolio-blog-tagsd-9-c-d0a"
+  },
+  "/ria-rivera/portfolio/blog/tags/docusaurus-a1f": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---ria-rivera-portfolio-blogbb-7-d87"
+    },
+    "sidebar": "sidebar---ria-rivera-portfolio-blog-814-45a",
+    "items": [
+      {
+        "content": "content---ria-rivera-portfolio-blog-766-b10"
+      },
+      {
+        "content": "content---ria-rivera-portfolio-blogf-4-f-236"
+      },
+      {
+        "content": "content---ria-rivera-portfolio-blog-871-fef"
+      },
+      {
+        "content": "content---ria-rivera-portfolio-blog-925-8fc"
+      }
+    ],
+    "tag": "tag---ria-rivera-portfolio-blog-tags-docusaurus-35-c-b97",
+    "listMetadata": "listMetadata---ria-rivera-portfolio-blog-tags-docusaurus-515-0c6"
+  },
+  "/ria-rivera/portfolio/blog/tags/facebook-a3d": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---ria-rivera-portfolio-blogbb-7-d87"
+    },
+    "sidebar": "sidebar---ria-rivera-portfolio-blog-814-45a",
+    "items": [
+      {
+        "content": "content---ria-rivera-portfolio-blog-766-b10"
+      }
+    ],
+    "tag": "tag---ria-rivera-portfolio-blog-tags-facebook-6-fa-0fa",
+    "listMetadata": "listMetadata---ria-rivera-portfolio-blog-tags-facebookb-5-a-548"
+  },
+  "/ria-rivera/portfolio/blog/tags/hello-b34": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---ria-rivera-portfolio-blogbb-7-d87"
+    },
+    "sidebar": "sidebar---ria-rivera-portfolio-blog-814-45a",
+    "items": [
+      {
+        "content": "content---ria-rivera-portfolio-blog-766-b10"
+      },
+      {
+        "content": "content---ria-rivera-portfolio-blog-871-fef"
+      }
+    ],
+    "tag": "tag---ria-rivera-portfolio-blog-tags-hello-698-f21",
+    "listMetadata": "listMetadata---ria-rivera-portfolio-blog-tags-helloa-06-051"
+  },
+  "/ria-rivera/portfolio/blog/tags/hola-7f4": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---ria-rivera-portfolio-blogbb-7-d87"
+    },
+    "sidebar": "sidebar---ria-rivera-portfolio-blog-814-45a",
+    "items": [
+      {
+        "content": "content---ria-rivera-portfolio-blog-925-8fc"
+      }
+    ],
+    "tag": "tag---ria-rivera-portfolio-blog-tags-hola-899-151",
+    "listMetadata": "listMetadata---ria-rivera-portfolio-blog-tags-hola-51-d-d8b"
+  },
+  "/ria-rivera/portfolio/blog/welcome-27a": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---ria-rivera-portfolio-blog-first-blog-postace-f73"
+      },
+      "plugin": "plugin---ria-rivera-portfolio-blogbb-7-d87"
+    },
+    "sidebar": "sidebar---ria-rivera-portfolio-blog-814-45a",
+    "content": "content---ria-rivera-portfolio-blog-welcomed-9-f-611"
+  },
+  "/ria-rivera/portfolio/markdown-page-21b": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---ria-rivera-portfolio-c-5-c-a42"
+    },
+    "content": "content---ria-rivera-portfolio-markdown-page-393-7fb"
+  },
+  "/ria-rivera/portfolio/docs-bf8": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---ria-rivera-portfolio-docs-220-b9a"
+    }
+  },
+  "/ria-rivera/portfolio/docs-d5b": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "version": "version---ria-rivera-portfolio-docs-935-e85"
+  },
+  "/ria-rivera/portfolio/docs-0d3": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/ria-rivera/portfolio/docs/Essays/about-essays-ea4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ria-rivera-portfolio-docs-essays-about-essaysd-47-ccf"
+  },
+  "/ria-rivera/portfolio/docs/Essays/training-wheels-not-included-89d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ria-rivera-portfolio-docs-essays-training-wheels-not-includedbdb-5cd"
+  },
+  "/ria-rivera/portfolio/docs/Essays/what-I-would-give-for-two-more-hours-332": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ria-rivera-portfolio-docs-essays-what-i-would-give-for-two-more-hoursd-44-33f"
+  },
+  "/ria-rivera/portfolio/docs/Food and Travel/about-food-travel-d0e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ria-rivera-portfolio-docs-food-and-travel-about-food-travelf-8-f-d63"
+  },
+  "/ria-rivera/portfolio/docs/Food and Travel/every-days-a-Sunday-at-Zuni-177": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ria-rivera-portfolio-docs-food-and-travel-every-days-a-sunday-at-zuni-4-bb-86a"
+  },
+  "/ria-rivera/portfolio/docs/Food and Travel/up-down-and-around-phan-thiet-city-867": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ria-rivera-portfolio-docs-food-and-travel-up-down-and-around-phan-thiet-cityc-6-f-4d0"
+  },
+  "/ria-rivera/portfolio/docs/intro-b03": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ria-rivera-portfolio-docs-intro-0-e-3-7d3"
+  },
+  "/ria-rivera/portfolio/docs/Technology/about-tech-ff1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ria-rivera-portfolio-docs-technology-about-tech-482-ca4"
+  },
+  "/ria-rivera/portfolio/docs/Technology/blackhat-SEO-attacks-use-fake-YouTube-288": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ria-rivera-portfolio-docs-technology-blackhat-seo-attacks-use-fake-you-tube-93-e-33b"
+  },
+  "/ria-rivera/portfolio/docs/Technology/mind-blowing-chips-1f3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ria-rivera-portfolio-docs-technology-mind-blowing-chips-522-4a2"
+  },
+  "/ria-rivera/portfolio/docs/Technology/spam-scams-and-other-social-media-threats-17d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ria-rivera-portfolio-docs-technology-spam-scams-and-other-social-media-threats-601-435"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "Food and Travel/every-days-a-Sunday-at-Zuni",
+  "title": "Every day's a Sunday at Zuni",
+  "description": "Something has to be said about Sundays and dinners with the family. A tradition that is passed down from generation to generation, Sunday dinners remain and continue to be a constant in many families. Perhaps it's the knowledge that it's the one day of the week when work and school can temporarily be forgotten that makes Sundays something to look forward to. In the Philippines and around the world, Sundays often stand for all things warm, cozy, and delectable.",
+  "source": "@site/docs/Food and Travel/every-days-a-Sunday-at-Zuni.md",
+  "sourceDirName": "Food and Travel",
+  "slug": "/Food and Travel/every-days-a-Sunday-at-Zuni",
+  "permalink": "/ria-rivera/portfolio/docs/Food and Travel/every-days-a-Sunday-at-Zuni",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Food and Travel/every-days-a-Sunday-at-Zuni.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "aboutSidebar",
+  "previous": {
+    "title": "Food and Travel",
+    "permalink": "/ria-rivera/portfolio/docs/Food and Travel/about-food-travel"
+  },
+  "next": {
+    "title": "Up, Down, and Around Phan Thiet City",
+    "permalink": "/ria-rivera/portfolio/docs/Food and Travel/up-down-and-around-phan-thiet-city"
+  }
+}

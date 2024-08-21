@@ -1,0 +1,24 @@
+{
+  "id": "Essays/about-essays",
+  "title": "Essays",
+  "description": "Creative nonfiction helped me find my voice as a young writer. These days, I use it to tell stories, to honor loved ones, and to make sense of my world.",
+  "source": "@site/docs/Essays/about-essays.md",
+  "sourceDirName": "Essays",
+  "slug": "/Essays/about-essays",
+  "permalink": "/ria-rivera/portfolio/docs/Essays/about-essays",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Essays/about-essays.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "aboutSidebar",
+  "previous": {
+    "title": "About",
+    "permalink": "/ria-rivera/portfolio/docs/intro"
+  },
+  "next": {
+    "title": "Training wheels not included",
+    "permalink": "/ria-rivera/portfolio/docs/Essays/training-wheels-not-included"
+  }
+}

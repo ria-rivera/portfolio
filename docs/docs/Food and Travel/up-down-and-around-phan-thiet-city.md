@@ -36,4 +36,4 @@ Venerated by fishermen, the whale is treated with great honor in the city. Whene
 
 Before leaving the place, I said thank you to the building's caretaker. He had followed us around, opening doors and lights wherever we went. With a sun-weathered face and browned skin, I could only guess that he too once spent many hours at sea. Perhaps this was his way of giving back to the great creatures who have blessed his nautical journeys. He rewarded my feeble attempt at pronouncing _cảm ơn_ correctly with a nod and a smile. It was one of the many little things I remember most about my brief encounter with the city that sleeps by the sea.
 
-
+_Originally published in asianTraveler Magazine_

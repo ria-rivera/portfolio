@@ -1,0 +1,24 @@
+{
+  "id": "Food and Travel/up-down-and-around-phan-thiet-city",
+  "title": "Up, Down, and Around Phan Thiet City",
+  "description": "“One hundred steps left!” I muttered, stopping momentarily to catch my breath. Sneaking a peek at Nga, my new Vietnamese friend, I noticed that she had beads of sweat forming on her forehead. Apparently, I wasn't the only one who lacked exercise.",
+  "source": "@site/docs/Food and Travel/up-down-and-around-phan-thiet-city.md",
+  "sourceDirName": "Food and Travel",
+  "slug": "/Food and Travel/up-down-and-around-phan-thiet-city",
+  "permalink": "/ria-rivera/portfolio/docs/Food and Travel/up-down-and-around-phan-thiet-city",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Food and Travel/up-down-and-around-phan-thiet-city.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "aboutSidebar",
+  "previous": {
+    "title": "Every day's a Sunday at Zuni",
+    "permalink": "/ria-rivera/portfolio/docs/Food and Travel/every-days-a-Sunday-at-Zuni"
+  },
+  "next": {
+    "title": "Technology",
+    "permalink": "/ria-rivera/portfolio/docs/Technology/about-tech"
+  }
+}

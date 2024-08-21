@@ -8,7 +8,7 @@ const FeatureList = [
     Svg: require('@site/static/img/essays.svg').default,
     description: (
       <>
-        Creative nonfiction helped me find my voice as a young writer. These days, I use them to tell stories, to honor loved ones, and to make sense of my world.
+        Creative nonfiction helped me find my voice as a young writer. These days, I use it to tell stories, to honor loved ones, and to make sense of my world.
       </>
     ),
   },

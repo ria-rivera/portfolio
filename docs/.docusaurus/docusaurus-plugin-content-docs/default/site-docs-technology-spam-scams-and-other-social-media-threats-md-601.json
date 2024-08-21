@@ -1,0 +1,20 @@
+{
+  "id": "Technology/spam-scams-and-other-social-media-threats",
+  "title": "Spam, Scams and Other Social Media Threats",
+  "description": "People’s lives are becoming more intertwined due to online interactions over time. While the Internet provides several options for users to create and maintain relationships, social media sites make it even easier to do so. Unfortunately, time spent on social media sites opens windows of opportunity for cybercriminals and online threats.",
+  "source": "@site/docs/Technology/spam-scams-and-other-social-media-threats.md",
+  "sourceDirName": "Technology",
+  "slug": "/Technology/spam-scams-and-other-social-media-threats",
+  "permalink": "/ria-rivera/portfolio/docs/Technology/spam-scams-and-other-social-media-threats",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Technology/spam-scams-and-other-social-media-threats.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "aboutSidebar",
+  "previous": {
+    "title": "Mind-blowing Chips",
+    "permalink": "/ria-rivera/portfolio/docs/Technology/mind-blowing-chips"
+  }
+}

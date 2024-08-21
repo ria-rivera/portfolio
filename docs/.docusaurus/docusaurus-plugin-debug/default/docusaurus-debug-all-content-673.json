@@ -1,0 +1,730 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/ria-rivera/portfolio/docs",
+          "tagsPath": "/ria-rivera/portfolio/docs/tags",
+          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs",
+          "editUrlLocalized": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/i18n/en/docusaurus-plugin-content-docs/current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/Users/riarivera/Documents/work/port4/portfolio/docs/sidebars.js",
+          "contentPath": "/Users/riarivera/Documents/work/port4/portfolio/docs/docs",
+          "contentPathLocalized": "/Users/riarivera/Documents/work/port4/portfolio/docs/i18n/en/docusaurus-plugin-content-docs/current",
+          "docs": [
+            {
+              "id": "Essays/about-essays",
+              "title": "Essays",
+              "description": "Creative nonfiction helped me find my voice as a young writer. These days, I use it to tell stories, to honor loved ones, and to make sense of my world.",
+              "source": "@site/docs/Essays/about-essays.md",
+              "sourceDirName": "Essays",
+              "slug": "/Essays/about-essays",
+              "permalink": "/ria-rivera/portfolio/docs/Essays/about-essays",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Essays/about-essays.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "aboutSidebar",
+              "previous": {
+                "title": "About",
+                "permalink": "/ria-rivera/portfolio/docs/intro"
+              },
+              "next": {
+                "title": "Training wheels not included",
+                "permalink": "/ria-rivera/portfolio/docs/Essays/training-wheels-not-included"
+              }
+            },
+            {
+              "id": "Essays/training-wheels-not-included",
+              "title": "Training wheels not included",
+              "description": "Most kids get their first bicycles at age 5. I got mine at 30. For the longest time, I was secretly envious of bikers. But after years of not knowing how, I'd resigned myself to the fact that I couldn't ride a bike.",
+              "source": "@site/docs/Essays/training-wheels-not-included.md",
+              "sourceDirName": "Essays",
+              "slug": "/Essays/training-wheels-not-included",
+              "permalink": "/ria-rivera/portfolio/docs/Essays/training-wheels-not-included",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Essays/training-wheels-not-included.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "aboutSidebar",
+              "previous": {
+                "title": "Essays",
+                "permalink": "/ria-rivera/portfolio/docs/Essays/about-essays"
+              },
+              "next": {
+                "title": "What I would give for two more hours",
+                "permalink": "/ria-rivera/portfolio/docs/Essays/what-I-would-give-for-two-more-hours"
+              }
+            },
+            {
+              "id": "Essays/what-I-would-give-for-two-more-hours",
+              "title": "What I would give for two more hours",
+              "description": "When I'm asked what I like about living in Taiwan, the efficient transportation system often tops the list. With its MRT lines, buses, and railway systems, getting around the island can be quite easy. Of course, only someone who's had to deal with less than ideal commuting experiences can fully appreciate the relief that comes with a functioning transport network.",
+              "source": "@site/docs/Essays/what-I-would-give-for-two-more-hours.md",
+              "sourceDirName": "Essays",
+              "slug": "/Essays/what-I-would-give-for-two-more-hours",
+              "permalink": "/ria-rivera/portfolio/docs/Essays/what-I-would-give-for-two-more-hours",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Essays/what-I-would-give-for-two-more-hours.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "aboutSidebar",
+              "previous": {
+                "title": "Training wheels not included",
+                "permalink": "/ria-rivera/portfolio/docs/Essays/training-wheels-not-included"
+              },
+              "next": {
+                "title": "Food and Travel",
+                "permalink": "/ria-rivera/portfolio/docs/Food and Travel/about-food-travel"
+              }
+            },
+            {
+              "id": "Food and Travel/about-food-travel",
+              "title": "Food and Travel",
+              "description": "I was a travel writer in a previous life, where I visited restaurants and stayed in hotels, and then I wrote about those awesome experiences.",
+              "source": "@site/docs/Food and Travel/about-food-travel.md",
+              "sourceDirName": "Food and Travel",
+              "slug": "/Food and Travel/about-food-travel",
+              "permalink": "/ria-rivera/portfolio/docs/Food and Travel/about-food-travel",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Food and Travel/about-food-travel.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "aboutSidebar",
+              "previous": {
+                "title": "What I would give for two more hours",
+                "permalink": "/ria-rivera/portfolio/docs/Essays/what-I-would-give-for-two-more-hours"
+              },
+              "next": {
+                "title": "Every day's a Sunday at Zuni",
+                "permalink": "/ria-rivera/portfolio/docs/Food and Travel/every-days-a-Sunday-at-Zuni"
+              }
+            },
+            {
+              "id": "Food and Travel/every-days-a-Sunday-at-Zuni",
+              "title": "Every day's a Sunday at Zuni",
+              "description": "Something has to be said about Sundays and dinners with the family. A tradition that is passed down from generation to generation, Sunday dinners remain and continue to be a constant in many families. Perhaps it's the knowledge that it's the one day of the week when work and school can temporarily be forgotten that makes Sundays something to look forward to. In the Philippines and around the world, Sundays often stand for all things warm, cozy, and delectable.",
+              "source": "@site/docs/Food and Travel/every-days-a-Sunday-at-Zuni.md",
+              "sourceDirName": "Food and Travel",
+              "slug": "/Food and Travel/every-days-a-Sunday-at-Zuni",
+              "permalink": "/ria-rivera/portfolio/docs/Food and Travel/every-days-a-Sunday-at-Zuni",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Food and Travel/every-days-a-Sunday-at-Zuni.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "aboutSidebar",
+              "previous": {
+                "title": "Food and Travel",
+                "permalink": "/ria-rivera/portfolio/docs/Food and Travel/about-food-travel"
+              },
+              "next": {
+                "title": "Up, Down, and Around Phan Thiet City",
+                "permalink": "/ria-rivera/portfolio/docs/Food and Travel/up-down-and-around-phan-thiet-city"
+              }
+            },
+            {
+              "id": "Food and Travel/up-down-and-around-phan-thiet-city",
+              "title": "Up, Down, and Around Phan Thiet City",
+              "description": "“One hundred steps left!” I muttered, stopping momentarily to catch my breath. Sneaking a peek at Nga, my new Vietnamese friend, I noticed that she had beads of sweat forming on her forehead. Apparently, I wasn't the only one who lacked exercise.",
+              "source": "@site/docs/Food and Travel/up-down-and-around-phan-thiet-city.md",
+              "sourceDirName": "Food and Travel",
+              "slug": "/Food and Travel/up-down-and-around-phan-thiet-city",
+              "permalink": "/ria-rivera/portfolio/docs/Food and Travel/up-down-and-around-phan-thiet-city",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Food and Travel/up-down-and-around-phan-thiet-city.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "aboutSidebar",
+              "previous": {
+                "title": "Every day's a Sunday at Zuni",
+                "permalink": "/ria-rivera/portfolio/docs/Food and Travel/every-days-a-Sunday-at-Zuni"
+              },
+              "next": {
+                "title": "Technology",
+                "permalink": "/ria-rivera/portfolio/docs/Technology/about-tech"
+              }
+            },
+            {
+              "id": "intro",
+              "title": "About",
+              "description": "Hello, I'm Ria. Thanks for dropping by!",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/intro",
+              "permalink": "/ria-rivera/portfolio/docs/intro",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "aboutSidebar",
+              "next": {
+                "title": "Essays",
+                "permalink": "/ria-rivera/portfolio/docs/Essays/about-essays"
+              }
+            },
+            {
+              "id": "Technology/about-tech",
+              "title": "Technology",
+              "description": "I have done the full gamut of technical writing: from writing articles for a tech magazine, to doing technical marketing, and eventually focusing on technical documentation and UX writing.",
+              "source": "@site/docs/Technology/about-tech.md",
+              "sourceDirName": "Technology",
+              "slug": "/Technology/about-tech",
+              "permalink": "/ria-rivera/portfolio/docs/Technology/about-tech",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Technology/about-tech.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "aboutSidebar",
+              "previous": {
+                "title": "Up, Down, and Around Phan Thiet City",
+                "permalink": "/ria-rivera/portfolio/docs/Food and Travel/up-down-and-around-phan-thiet-city"
+              },
+              "next": {
+                "title": "Blackhat SEO Attacks Use Fake YouTube pages and Flash Installers",
+                "permalink": "/ria-rivera/portfolio/docs/Technology/blackhat-SEO-attacks-use-fake-YouTube"
+              }
+            },
+            {
+              "id": "Technology/blackhat-SEO-attacks-use-fake-YouTube",
+              "title": "Blackhat SEO Attacks Use Fake YouTube pages and Flash Installers",
+              "description": "How do users get this Web threat?",
+              "source": "@site/docs/Technology/blackhat-SEO-attacks-use-fake-YouTube.md",
+              "sourceDirName": "Technology",
+              "slug": "/Technology/blackhat-SEO-attacks-use-fake-YouTube",
+              "permalink": "/ria-rivera/portfolio/docs/Technology/blackhat-SEO-attacks-use-fake-YouTube",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Technology/blackhat-SEO-attacks-use-fake-YouTube.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "aboutSidebar",
+              "previous": {
+                "title": "Technology",
+                "permalink": "/ria-rivera/portfolio/docs/Technology/about-tech"
+              },
+              "next": {
+                "title": "Mind-blowing Chips",
+                "permalink": "/ria-rivera/portfolio/docs/Technology/mind-blowing-chips"
+              }
+            },
+            {
+              "id": "Technology/mind-blowing-chips",
+              "title": "Mind-blowing Chips",
+              "description": "For thousands of paralytics and quadriplegics, the hope of being able to move and function again like they did before is a far-off dream. But unknown to many, this dream may be realized sooner than they think.",
+              "source": "@site/docs/Technology/mind-blowing-chips.md",
+              "sourceDirName": "Technology",
+              "slug": "/Technology/mind-blowing-chips",
+              "permalink": "/ria-rivera/portfolio/docs/Technology/mind-blowing-chips",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Technology/mind-blowing-chips.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "aboutSidebar",
+              "previous": {
+                "title": "Blackhat SEO Attacks Use Fake YouTube pages and Flash Installers",
+                "permalink": "/ria-rivera/portfolio/docs/Technology/blackhat-SEO-attacks-use-fake-YouTube"
+              },
+              "next": {
+                "title": "Spam, Scams and Other Social Media Threats",
+                "permalink": "/ria-rivera/portfolio/docs/Technology/spam-scams-and-other-social-media-threats"
+              }
+            },
+            {
+              "id": "Technology/spam-scams-and-other-social-media-threats",
+              "title": "Spam, Scams and Other Social Media Threats",
+              "description": "People’s lives are becoming more intertwined due to online interactions over time. While the Internet provides several options for users to create and maintain relationships, social media sites make it even easier to do so. Unfortunately, time spent on social media sites opens windows of opportunity for cybercriminals and online threats.",
+              "source": "@site/docs/Technology/spam-scams-and-other-social-media-threats.md",
+              "sourceDirName": "Technology",
+              "slug": "/Technology/spam-scams-and-other-social-media-threats",
+              "permalink": "/ria-rivera/portfolio/docs/Technology/spam-scams-and-other-social-media-threats",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Technology/spam-scams-and-other-social-media-threats.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "aboutSidebar",
+              "previous": {
+                "title": "Mind-blowing Chips",
+                "permalink": "/ria-rivera/portfolio/docs/Technology/mind-blowing-chips"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "aboutSidebar": [
+              {
+                "type": "doc",
+                "id": "intro"
+              },
+              {
+                "type": "category",
+                "label": "Essays",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Essays/about-essays"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Essays/training-wheels-not-included"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Essays/what-I-would-give-for-two-more-hours"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "Food and Travel",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Food and Travel/about-food-travel"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Food and Travel/every-days-a-Sunday-at-Zuni"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Food and Travel/up-down-and-around-phan-thiet-city"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "Technology",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Technology/about-tech"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Technology/blackhat-SEO-attacks-use-fake-YouTube"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Technology/mind-blowing-chips"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Technology/spam-scams-and-other-social-media-threats"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [
+        {
+          "id": "welcome",
+          "metadata": {
+            "permalink": "/ria-rivera/portfolio/blog/welcome",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-26-welcome/index.md",
+            "source": "@site/blog/2021-08-26-welcome/index.md",
+            "title": "Welcome",
+            "description": "Docusaurus blogging features are powered by the blog plugin.",
+            "date": "2021-08-26T00:00:00.000Z",
+            "tags": [
+              {
+                "label": "facebook",
+                "permalink": "/ria-rivera/portfolio/blog/tags/facebook"
+              },
+              {
+                "label": "hello",
+                "permalink": "/ria-rivera/portfolio/blog/tags/hello"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/ria-rivera/portfolio/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.405,
+            "hasTruncateMarker": false,
+            "authors": [
+              {
+                "name": "Sébastien Lorber",
+                "title": "Docusaurus maintainer",
+                "url": "https://sebastienlorber.com",
+                "imageURL": "https://github.com/slorber.png",
+                "key": "slorber"
+              },
+              {
+                "name": "Yangshun Tay",
+                "title": "Front End Engineer @ Facebook",
+                "url": "https://github.com/yangshun",
+                "imageURL": "https://github.com/yangshun.png",
+                "key": "yangshun"
+              }
+            ],
+            "frontMatter": {
+              "slug": "welcome",
+              "title": "Welcome",
+              "authors": [
+                "slorber",
+                "yangshun"
+              ],
+              "tags": [
+                "facebook",
+                "hello",
+                "docusaurus"
+              ]
+            },
+            "unlisted": false,
+            "nextItem": {
+              "title": "MDX Blog Post",
+              "permalink": "/ria-rivera/portfolio/blog/mdx-blog-post"
+            }
+          },
+          "content": "[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).\n\nSimply add Markdown files (or folders) to the `blog` directory.\n\nRegular blog authors can be added to `authors.yml`.\n\nThe blog post date can be extracted from filenames, such as:\n\n- `2019-05-30-welcome.md`\n- `2019-05-30-welcome/index.md`\n\nA blog post folder can be convenient to co-locate blog post images:\n\n![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)\n\nThe blog supports tags as well!\n\n**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config."
+        },
+        {
+          "id": "mdx-blog-post",
+          "metadata": {
+            "permalink": "/ria-rivera/portfolio/blog/mdx-blog-post",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-01-mdx-blog-post.mdx",
+            "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
+            "title": "MDX Blog Post",
+            "description": "Blog posts support Docusaurus Markdown features, such as MDX.",
+            "date": "2021-08-01T00:00:00.000Z",
+            "tags": [
+              {
+                "label": "docusaurus",
+                "permalink": "/ria-rivera/portfolio/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.175,
+            "hasTruncateMarker": false,
+            "authors": [
+              {
+                "name": "Sébastien Lorber",
+                "title": "Docusaurus maintainer",
+                "url": "https://sebastienlorber.com",
+                "imageURL": "https://github.com/slorber.png",
+                "key": "slorber"
+              }
+            ],
+            "frontMatter": {
+              "slug": "mdx-blog-post",
+              "title": "MDX Blog Post",
+              "authors": [
+                "slorber"
+              ],
+              "tags": [
+                "docusaurus"
+              ]
+            },
+            "unlisted": false,
+            "prevItem": {
+              "title": "Welcome",
+              "permalink": "/ria-rivera/portfolio/blog/welcome"
+            },
+            "nextItem": {
+              "title": "Long Blog Post",
+              "permalink": "/ria-rivera/portfolio/blog/long-blog-post"
+            }
+          },
+          "content": "Blog posts support [Docusaurus Markdown features](https://docusaurus.io/docs/markdown-features), such as [MDX](https://mdxjs.com/).\n\n:::tip\n\nUse the power of React to create interactive blog posts.\n\n```js\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n```\n\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n\n:::"
+        },
+        {
+          "id": "long-blog-post",
+          "metadata": {
+            "permalink": "/ria-rivera/portfolio/blog/long-blog-post",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2019-05-29-long-blog-post.md",
+            "source": "@site/blog/2019-05-29-long-blog-post.md",
+            "title": "Long Blog Post",
+            "description": "This is the summary of a very long blog post,",
+            "date": "2019-05-29T00:00:00.000Z",
+            "tags": [
+              {
+                "label": "hello",
+                "permalink": "/ria-rivera/portfolio/blog/tags/hello"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/ria-rivera/portfolio/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 2.05,
+            "hasTruncateMarker": true,
+            "authors": [
+              {
+                "name": "Endilie Yacop Sucipto",
+                "title": "Maintainer of Docusaurus",
+                "url": "https://github.com/endiliey",
+                "imageURL": "https://github.com/endiliey.png",
+                "key": "endi"
+              }
+            ],
+            "frontMatter": {
+              "slug": "long-blog-post",
+              "title": "Long Blog Post",
+              "authors": "endi",
+              "tags": [
+                "hello",
+                "docusaurus"
+              ]
+            },
+            "unlisted": false,
+            "prevItem": {
+              "title": "MDX Blog Post",
+              "permalink": "/ria-rivera/portfolio/blog/mdx-blog-post"
+            },
+            "nextItem": {
+              "title": "First Blog Post",
+              "permalink": "/ria-rivera/portfolio/blog/first-blog-post"
+            }
+          },
+          "content": "This is the summary of a very long blog post,\n\nUse a `<!--` `truncate` `-->` comment to limit blog post size in the list view.\n\n<!--truncate-->\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
+        },
+        {
+          "id": "first-blog-post",
+          "metadata": {
+            "permalink": "/ria-rivera/portfolio/blog/first-blog-post",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2019-05-28-first-blog-post.md",
+            "source": "@site/blog/2019-05-28-first-blog-post.md",
+            "title": "First Blog Post",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet",
+            "date": "2019-05-28T00:00:00.000Z",
+            "tags": [
+              {
+                "label": "hola",
+                "permalink": "/ria-rivera/portfolio/blog/tags/hola"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/ria-rivera/portfolio/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.12,
+            "hasTruncateMarker": false,
+            "authors": [
+              {
+                "name": "Gao Wei",
+                "title": "Docusaurus Core Team",
+                "url": "https://github.com/wgao19",
+                "image_url": "https://github.com/wgao19.png",
+                "imageURL": "https://github.com/wgao19.png"
+              }
+            ],
+            "frontMatter": {
+              "slug": "first-blog-post",
+              "title": "First Blog Post",
+              "authors": {
+                "name": "Gao Wei",
+                "title": "Docusaurus Core Team",
+                "url": "https://github.com/wgao19",
+                "image_url": "https://github.com/wgao19.png",
+                "imageURL": "https://github.com/wgao19.png"
+              },
+              "tags": [
+                "hola",
+                "docusaurus"
+              ]
+            },
+            "unlisted": false,
+            "prevItem": {
+              "title": "Long Blog Post",
+              "permalink": "/ria-rivera/portfolio/blog/long-blog-post"
+            }
+          },
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
+        }
+      ],
+      "blogListPaginated": [
+        {
+          "items": [
+            "welcome",
+            "mdx-blog-post",
+            "long-blog-post",
+            "first-blog-post"
+          ],
+          "metadata": {
+            "permalink": "/ria-rivera/portfolio/blog",
+            "page": 1,
+            "postsPerPage": 10,
+            "totalPages": 1,
+            "totalCount": 4,
+            "blogDescription": "Blog",
+            "blogTitle": "Blog"
+          }
+        }
+      ],
+      "blogTags": {
+        "/ria-rivera/portfolio/blog/tags/facebook": {
+          "label": "facebook",
+          "items": [
+            "welcome"
+          ],
+          "permalink": "/ria-rivera/portfolio/blog/tags/facebook",
+          "pages": [
+            {
+              "items": [
+                "welcome"
+              ],
+              "metadata": {
+                "permalink": "/ria-rivera/portfolio/blog/tags/facebook",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ],
+          "unlisted": false
+        },
+        "/ria-rivera/portfolio/blog/tags/hello": {
+          "label": "hello",
+          "items": [
+            "welcome",
+            "long-blog-post"
+          ],
+          "permalink": "/ria-rivera/portfolio/blog/tags/hello",
+          "pages": [
+            {
+              "items": [
+                "welcome",
+                "long-blog-post"
+              ],
+              "metadata": {
+                "permalink": "/ria-rivera/portfolio/blog/tags/hello",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 2,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ],
+          "unlisted": false
+        },
+        "/ria-rivera/portfolio/blog/tags/docusaurus": {
+          "label": "docusaurus",
+          "items": [
+            "welcome",
+            "mdx-blog-post",
+            "long-blog-post",
+            "first-blog-post"
+          ],
+          "permalink": "/ria-rivera/portfolio/blog/tags/docusaurus",
+          "pages": [
+            {
+              "items": [
+                "welcome",
+                "mdx-blog-post",
+                "long-blog-post",
+                "first-blog-post"
+              ],
+              "metadata": {
+                "permalink": "/ria-rivera/portfolio/blog/tags/docusaurus",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 4,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ],
+          "unlisted": false
+        },
+        "/ria-rivera/portfolio/blog/tags/hola": {
+          "label": "hola",
+          "items": [
+            "first-blog-post"
+          ],
+          "permalink": "/ria-rivera/portfolio/blog/tags/hola",
+          "pages": [
+            {
+              "items": [
+                "first-blog-post"
+              ],
+              "metadata": {
+                "permalink": "/ria-rivera/portfolio/blog/tags/hola",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ],
+          "unlisted": false
+        }
+      },
+      "blogTagsListPath": "/ria-rivera/portfolio/blog/tags"
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/ria-rivera/portfolio/",
+        "source": "@site/src/pages/index.js"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/ria-rivera/portfolio/markdown-page",
+        "source": "@site/src/pages/markdown-page.md",
+        "title": "Markdown page example",
+        "description": "You don't need React to write simple standalone pages.",
+        "frontMatter": {
+          "title": "Markdown page example"
+        },
+        "unlisted": false
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

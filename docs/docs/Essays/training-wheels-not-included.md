@@ -21,3 +21,5 @@ I was too happy with finally being able to face my fears and learn how to balanc
 So, that's exactly what I did. I gave biking a break and took the time to catch up on the stuff I've missed, like chores and reading books. By the time the wound had healed, I was ready to take up the challenge again. I knew better the second time around. I knew from experience what worked and what didn't. Despite the fall, I was determined to learn more than ever. 
 
 It definitely did not happen overnight, but after a month or so of persistence, I finally learned how to ride a bike. I thought it was impossible, but I now ride my bike every chance I get. When I ride a bike, a smile automatically spreads on my face. It's actually a bit embarrassing, but I guess you can't blame me. Biking is just awesome. I can't believe I've been missing out on this for so long.
+
+_This [Substack post](https://riarivera.substack.com/p/training-wheels-not-included) was published on April 15, 2024_

@@ -13,10 +13,10 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: '/portfolio/',
+  url: 'https://github.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/ria-rivera/portfolio',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -99,4 +99,8 @@ const config = {
     }),
 };
 
-export default config;
+export default {
+  url: 'https://riarivera-portfolio.netlify.app', // Url to your site with no trailing slash
+  baseUrl: '/', // Base directory of your site relative to your repo
+  // ...
+};

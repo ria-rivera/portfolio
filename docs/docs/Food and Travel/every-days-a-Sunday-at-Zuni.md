@@ -24,3 +24,5 @@ Apart from the variety of meal options, Zuni sports an extensive wine list, whic
 
 Filled to the brim and still undecided which dish I liked best, I find it easy to imagine Zuni likewise brimming with people—families, business folks, and friends all having a good time. Whether it's a Sunday or any other day of the week, that warm, cozy, and delectable vibe is definitely there. And that, I guess, is what makes Zuni more than just a great dining spot for Sunday dinners with the family.
 
+_Originally published in asianTraveler Magazine_
+
