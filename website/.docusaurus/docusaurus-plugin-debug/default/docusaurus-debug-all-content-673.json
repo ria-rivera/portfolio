@@ -20,53 +20,6 @@
           "contentPathLocalized": "/Users/riarivera/Documents/work/port4/portfolio/website/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
-              "id": "About/about",
-              "title": "About",
-              "description": "Hello, I'm Ria. Thanks for dropping by!",
-              "source": "@site/docs/About/about.md",
-              "sourceDirName": "About",
-              "slug": "/About/",
-              "permalink": "/docs/About/",
-              "draft": false,
-              "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/About/about.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1
-              },
-              "sidebar": "aboutSidebar",
-              "next": {
-                "title": "Experience",
-                "permalink": "/docs/About/experience"
-              }
-            },
-            {
-              "id": "About/experience",
-              "title": "Experience",
-              "description": "Summary",
-              "source": "@site/docs/About/experience.md",
-              "sourceDirName": "About",
-              "slug": "/About/experience",
-              "permalink": "/docs/About/experience",
-              "draft": false,
-              "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/About/experience.md",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {},
-              "sidebar": "aboutSidebar",
-              "previous": {
-                "title": "About",
-                "permalink": "/docs/About/"
-              },
-              "next": {
-                "title": "Essays",
-                "permalink": "/docs/Essays/about-essays"
-              }
-            },
-            {
               "id": "Essays/about-essays",
               "title": "Essays",
               "description": "Creative nonfiction helped me find my voice as a young writer. These days, I use it to tell stories, to honor loved ones, and to make sense of my world.",
@@ -83,7 +36,7 @@
               "sidebar": "aboutSidebar",
               "previous": {
                 "title": "Experience",
-                "permalink": "/docs/About/experience"
+                "permalink": "/docs/experience"
               },
               "next": {
                 "title": "Training Wheels Not Included",
@@ -136,6 +89,33 @@
               "next": {
                 "title": "Food and Travel",
                 "permalink": "/docs/Food and Travel/about-food-travel"
+              }
+            },
+            {
+              "id": "experience",
+              "title": "Experience",
+              "description": "Summary",
+              "source": "@site/docs/experience.md",
+              "sourceDirName": ".",
+              "slug": "/experience",
+              "permalink": "/docs/experience",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/experience.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "aboutSidebar",
+              "previous": {
+                "title": "About",
+                "permalink": "/docs/intro"
+              },
+              "next": {
+                "title": "Essays",
+                "permalink": "/docs/Essays/about-essays"
               }
             },
             {
@@ -208,6 +188,29 @@
               "next": {
                 "title": "Technology",
                 "permalink": "/docs/Technology/about-tech"
+              }
+            },
+            {
+              "id": "intro",
+              "title": "About",
+              "description": "Hello, I'm Ria. Thanks for dropping by!",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/intro",
+              "permalink": "/docs/intro",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "aboutSidebar",
+              "next": {
+                "title": "Experience",
+                "permalink": "/docs/experience"
               }
             },
             {
@@ -307,20 +310,12 @@
           "sidebars": {
             "aboutSidebar": [
               {
-                "type": "category",
-                "label": "About",
-                "collapsible": true,
-                "collapsed": true,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "About/experience"
-                  }
-                ],
-                "link": {
-                  "type": "doc",
-                  "id": "About/about"
-                }
+                "type": "doc",
+                "id": "intro"
+              },
+              {
+                "type": "doc",
+                "id": "experience"
               },
               {
                 "type": "category",

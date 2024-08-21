@@ -8,18 +8,8 @@
           "label": "Next",
           "isLast": true,
           "path": "/docs",
-          "mainDocId": "About/about",
+          "mainDocId": "intro",
           "docs": [
-            {
-              "id": "About/about",
-              "path": "/docs/About/",
-              "sidebar": "aboutSidebar"
-            },
-            {
-              "id": "About/experience",
-              "path": "/docs/About/experience",
-              "sidebar": "aboutSidebar"
-            },
             {
               "id": "Essays/about-essays",
               "path": "/docs/Essays/about-essays",
@@ -36,6 +26,11 @@
               "sidebar": "aboutSidebar"
             },
             {
+              "id": "experience",
+              "path": "/docs/experience",
+              "sidebar": "aboutSidebar"
+            },
+            {
               "id": "Food and Travel/about-food-travel",
               "path": "/docs/Food and Travel/about-food-travel",
               "sidebar": "aboutSidebar"
@@ -48,6 +43,11 @@
             {
               "id": "Food and Travel/up-down-and-around-phan-thiet-city",
               "path": "/docs/Food and Travel/up-down-and-around-phan-thiet-city",
+              "sidebar": "aboutSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro",
               "sidebar": "aboutSidebar"
             },
             {
@@ -75,8 +75,8 @@
           "sidebars": {
             "aboutSidebar": {
               "link": {
-                "path": "/docs/About/",
-                "label": "About"
+                "path": "/docs/intro",
+                "label": "intro"
               }
             }
           }

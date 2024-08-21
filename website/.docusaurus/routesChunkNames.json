@@ -198,26 +198,18 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-ca5": {
+  "/docs-045": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsf-10-2a3"
     }
   },
-  "/docs-c63": {
+  "/docs-d8d": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "version": "version---docs-935-398"
   },
-  "/docs-961": {
+  "/docs-499": {
     "__comp": "__comp---theme-doc-roota-94-67a"
-  },
-  "/docs/About/-134": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-about-a-97-58f"
-  },
-  "/docs/About/experience-22a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-about-experiencea-6-f-a6d"
   },
   "/docs/Essays/about-essays-4db": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -231,6 +223,10 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-essays-what-i-would-give-for-two-more-hoursd-44-4ab"
   },
+  "/docs/experience-821": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-experience-9-dc-187"
+  },
   "/docs/Food and Travel/about-food-travel-743": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-food-and-travel-about-food-travelf-8-f-886"
@@ -242,6 +238,10 @@
   "/docs/Food and Travel/up-down-and-around-phan-thiet-city-209": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-food-and-travel-up-down-and-around-phan-thiet-cityc-6-f-86f"
+  },
+  "/docs/intro-912": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-intro-0-e-3-be1"
   },
   "/docs/Technology/about-tech-51a": {
     "__comp": "__comp---theme-doc-item-178-a40",

@@ -99,28 +99,16 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'ca5'),
+    component: ComponentCreator('/docs', '045'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'c63'),
+        component: ComponentCreator('/docs', 'd8d'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '961'),
+            component: ComponentCreator('/docs', '499'),
             routes: [
-              {
-                path: '/docs/About/',
-                component: ComponentCreator('/docs/About/', '134'),
-                exact: true,
-                sidebar: "aboutSidebar"
-              },
-              {
-                path: '/docs/About/experience',
-                component: ComponentCreator('/docs/About/experience', '22a'),
-                exact: true,
-                sidebar: "aboutSidebar"
-              },
               {
                 path: '/docs/Essays/about-essays',
                 component: ComponentCreator('/docs/Essays/about-essays', '4db'),
@@ -140,6 +128,12 @@ export default [
                 sidebar: "aboutSidebar"
               },
               {
+                path: '/docs/experience',
+                component: ComponentCreator('/docs/experience', '821'),
+                exact: true,
+                sidebar: "aboutSidebar"
+              },
+              {
                 path: '/docs/Food and Travel/about-food-travel',
                 component: ComponentCreator('/docs/Food and Travel/about-food-travel', '743'),
                 exact: true,
@@ -154,6 +148,12 @@ export default [
               {
                 path: '/docs/Food and Travel/up-down-and-around-phan-thiet-city',
                 component: ComponentCreator('/docs/Food and Travel/up-down-and-around-phan-thiet-city', '209'),
+                exact: true,
+                sidebar: "aboutSidebar"
+              },
+              {
+                path: '/docs/intro',
+                component: ComponentCreator('/docs/intro', '912'),
                 exact: true,
                 sidebar: "aboutSidebar"
               },
