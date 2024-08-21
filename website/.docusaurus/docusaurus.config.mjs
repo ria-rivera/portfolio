@@ -40,7 +40,7 @@ export default {
     ]
   ],
   "themeConfig": {
-    "image": "img/docusaurus-social-card.jpg",
+    "image": "img/riarivera-social-card.png",
     "navbar": {
       "title": "Ria Rivera",
       "logo": {
