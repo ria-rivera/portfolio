@@ -12,7 +12,7 @@ I've been working full-time as a technical writer in the last decade, but I have
 
 Before I focused on technical writing, I was a travel writer, a tech magazine contributor, and a technical marketing writer.
 
-I'm currently a freelance UX Writer/Technical Writer looking to work with businesses that want to deliver exceptional documentation and user experience. 
+I'm currently a freelance UX/Technical Writer looking to work with businesses that want to deliver exceptional documentation and user experience. 
 
 How can I help you?
 - **Content audit**: Review existing content to identify gaps and areas for improvement.
