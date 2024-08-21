@@ -104,3 +104,8 @@ export default {
   baseUrl: '/', // Base directory of your site relative to your repo
   // ...
 };
+
+module.exports = {
+  title: "My Portfolio",
+  // other configuration options
+};
