@@ -12,7 +12,7 @@
       {
         "type": "link",
         "label": "About",
-        "href": "/ria-rivera/portfolio/docs/intro",
+        "href": "/docs/intro",
         "docId": "intro",
         "unlisted": false
       },
@@ -25,21 +25,21 @@
           {
             "type": "link",
             "label": "Essays",
-            "href": "/ria-rivera/portfolio/docs/Essays/about-essays",
+            "href": "/docs/Essays/about-essays",
             "docId": "Essays/about-essays",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Training wheels not included",
-            "href": "/ria-rivera/portfolio/docs/Essays/training-wheels-not-included",
+            "href": "/docs/Essays/training-wheels-not-included",
             "docId": "Essays/training-wheels-not-included",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "What I would give for two more hours",
-            "href": "/ria-rivera/portfolio/docs/Essays/what-I-would-give-for-two-more-hours",
+            "href": "/docs/Essays/what-I-would-give-for-two-more-hours",
             "docId": "Essays/what-I-would-give-for-two-more-hours",
             "unlisted": false
           }
@@ -54,21 +54,21 @@
           {
             "type": "link",
             "label": "Food and Travel",
-            "href": "/ria-rivera/portfolio/docs/Food and Travel/about-food-travel",
+            "href": "/docs/Food and Travel/about-food-travel",
             "docId": "Food and Travel/about-food-travel",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Every day's a Sunday at Zuni",
-            "href": "/ria-rivera/portfolio/docs/Food and Travel/every-days-a-Sunday-at-Zuni",
+            "href": "/docs/Food and Travel/every-days-a-Sunday-at-Zuni",
             "docId": "Food and Travel/every-days-a-Sunday-at-Zuni",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Up, Down, and Around Phan Thiet City",
-            "href": "/ria-rivera/portfolio/docs/Food and Travel/up-down-and-around-phan-thiet-city",
+            "href": "/docs/Food and Travel/up-down-and-around-phan-thiet-city",
             "docId": "Food and Travel/up-down-and-around-phan-thiet-city",
             "unlisted": false
           }
@@ -83,28 +83,28 @@
           {
             "type": "link",
             "label": "Technology",
-            "href": "/ria-rivera/portfolio/docs/Technology/about-tech",
+            "href": "/docs/Technology/about-tech",
             "docId": "Technology/about-tech",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Blackhat SEO Attacks Use Fake YouTube pages and Flash Installers",
-            "href": "/ria-rivera/portfolio/docs/Technology/blackhat-SEO-attacks-use-fake-YouTube",
+            "href": "/docs/Technology/blackhat-SEO-attacks-use-fake-YouTube",
             "docId": "Technology/blackhat-SEO-attacks-use-fake-YouTube",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Mind-blowing Chips",
-            "href": "/ria-rivera/portfolio/docs/Technology/mind-blowing-chips",
+            "href": "/docs/Technology/mind-blowing-chips",
             "docId": "Technology/mind-blowing-chips",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Spam, Scams and Other Social Media Threats",
-            "href": "/ria-rivera/portfolio/docs/Technology/spam-scams-and-other-social-media-threats",
+            "href": "/docs/Technology/spam-scams-and-other-social-media-threats",
             "docId": "Technology/spam-scams-and-other-social-media-threats",
             "unlisted": false
           }

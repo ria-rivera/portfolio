@@ -5,7 +5,7 @@
   "source": "@site/docs/Essays/training-wheels-not-included.md",
   "sourceDirName": "Essays",
   "slug": "/Essays/training-wheels-not-included",
-  "permalink": "/ria-rivera/portfolio/docs/Essays/training-wheels-not-included",
+  "permalink": "/docs/Essays/training-wheels-not-included",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Essays/training-wheels-not-included.md",
@@ -15,10 +15,10 @@
   "sidebar": "aboutSidebar",
   "previous": {
     "title": "Essays",
-    "permalink": "/ria-rivera/portfolio/docs/Essays/about-essays"
+    "permalink": "/docs/Essays/about-essays"
   },
   "next": {
     "title": "What I would give for two more hours",
-    "permalink": "/ria-rivera/portfolio/docs/Essays/what-I-would-give-for-two-more-hours"
+    "permalink": "/docs/Essays/what-I-would-give-for-two-more-hours"
   }
 }

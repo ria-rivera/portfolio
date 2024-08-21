@@ -5,7 +5,7 @@
   "source": "@site/docs/Essays/about-essays.md",
   "sourceDirName": "Essays",
   "slug": "/Essays/about-essays",
-  "permalink": "/ria-rivera/portfolio/docs/Essays/about-essays",
+  "permalink": "/docs/Essays/about-essays",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Essays/about-essays.md",
@@ -15,10 +15,10 @@
   "sidebar": "aboutSidebar",
   "previous": {
     "title": "About",
-    "permalink": "/ria-rivera/portfolio/docs/intro"
+    "permalink": "/docs/intro"
   },
   "next": {
     "title": "Training wheels not included",
-    "permalink": "/ria-rivera/portfolio/docs/Essays/training-wheels-not-included"
+    "permalink": "/docs/Essays/training-wheels-not-included"
   }
 }

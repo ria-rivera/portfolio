@@ -5,7 +5,7 @@
   "source": "@site/docs/Food and Travel/up-down-and-around-phan-thiet-city.md",
   "sourceDirName": "Food and Travel",
   "slug": "/Food and Travel/up-down-and-around-phan-thiet-city",
-  "permalink": "/ria-rivera/portfolio/docs/Food and Travel/up-down-and-around-phan-thiet-city",
+  "permalink": "/docs/Food and Travel/up-down-and-around-phan-thiet-city",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Food and Travel/up-down-and-around-phan-thiet-city.md",
@@ -15,10 +15,10 @@
   "sidebar": "aboutSidebar",
   "previous": {
     "title": "Every day's a Sunday at Zuni",
-    "permalink": "/ria-rivera/portfolio/docs/Food and Travel/every-days-a-Sunday-at-Zuni"
+    "permalink": "/docs/Food and Travel/every-days-a-Sunday-at-Zuni"
   },
   "next": {
     "title": "Technology",
-    "permalink": "/ria-rivera/portfolio/docs/Technology/about-tech"
+    "permalink": "/docs/Technology/about-tech"
   }
 }
