@@ -108,6 +108,6 @@ export default {
 module.exports = {
   title: "My Portfolio",
   baseUrl: '/', // specify the base URL of your site
-  url: 'https://www.riarivera.com' // specify the URL of your site
+  url: 'https://riarivera-portfolio.netlify.app' // specify the URL of your site
   // other configuration options
 };
