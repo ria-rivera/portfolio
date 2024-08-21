@@ -1,6 +1,6 @@
 {
   "id": "Technology/spam-scams-and-other-social-media-threats",
-  "title": "Spam, Scams and Other Social Media Threats",
+  "title": "Spam, Scams, and Other Social Media Threats",
   "description": "People’s lives are becoming more intertwined due to online interactions over time. While the Internet provides several options for users to create and maintain relationships, social media sites make it even easier to do so. Unfortunately, time spent on social media sites opens windows of opportunity for cybercriminals and online threats.",
   "source": "@site/docs/Technology/spam-scams-and-other-social-media-threats.md",
   "sourceDirName": "Technology",
@@ -14,7 +14,7 @@
   "frontMatter": {},
   "sidebar": "aboutSidebar",
   "previous": {
-    "title": "Mind-blowing Chips",
+    "title": "Mind-Blowing Chips",
     "permalink": "/docs/Technology/mind-blowing-chips"
   }
 }

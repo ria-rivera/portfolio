@@ -1,4 +1,4 @@
-# Every day's a Sunday at Zuni
+# Every Day's a Sunday at Zuni
 
 Something has to be said about Sundays and dinners with the family. A tradition that is passed down from generation to generation, Sunday dinners remain and continue to be a constant in many families. Perhaps it's the knowledge that it's the one day of the week when work and school can temporarily be forgotten that makes Sundays something to look forward to. In the Philippines and around the world, Sundays often stand for all things warm, cozy, and delectable. 
 

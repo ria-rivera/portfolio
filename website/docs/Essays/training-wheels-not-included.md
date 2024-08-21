@@ -1,4 +1,4 @@
-# Training wheels not included
+# Training Wheels Not Included
 
 Most kids get their first bicycles at age 5. I got mine at 30. For the longest time, I was secretly envious of bikers. But after years of not knowing how, I'd resigned myself to the fact that I couldn't ride a bike.
 

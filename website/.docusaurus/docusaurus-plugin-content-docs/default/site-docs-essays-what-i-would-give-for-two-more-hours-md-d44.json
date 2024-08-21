@@ -1,6 +1,6 @@
 {
   "id": "Essays/what-I-would-give-for-two-more-hours",
-  "title": "What I would give for two more hours",
+  "title": "What I Would Give For Two More Hours",
   "description": "When I'm asked what I like about living in Taiwan, the efficient transportation system often tops the list. With its MRT lines, buses, and railway systems, getting around the island can be quite easy. Of course, only someone who's had to deal with less than ideal commuting experiences can fully appreciate the relief that comes with a functioning transport network.",
   "source": "@site/docs/Essays/what-I-would-give-for-two-more-hours.md",
   "sourceDirName": "Essays",
@@ -14,7 +14,7 @@
   "frontMatter": {},
   "sidebar": "aboutSidebar",
   "previous": {
-    "title": "Training wheels not included",
+    "title": "Training Wheels Not Included",
     "permalink": "/docs/Essays/training-wheels-not-included"
   },
   "next": {

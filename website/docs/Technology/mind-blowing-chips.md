@@ -1,4 +1,4 @@
-# Mind-blowing Chips
+# Mind-Blowing Chips
 
 For thousands of paralytics and quadriplegics, the hope of being able to move and function again like they did before is a far-off dream. But unknown to many, this dream may be realized sooner than they think.
 

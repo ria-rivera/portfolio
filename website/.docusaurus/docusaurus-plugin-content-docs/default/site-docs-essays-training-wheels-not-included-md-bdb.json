@@ -1,6 +1,6 @@
 {
   "id": "Essays/training-wheels-not-included",
-  "title": "Training wheels not included",
+  "title": "Training Wheels Not Included",
   "description": "Most kids get their first bicycles at age 5. I got mine at 30. For the longest time, I was secretly envious of bikers. But after years of not knowing how, I'd resigned myself to the fact that I couldn't ride a bike.",
   "source": "@site/docs/Essays/training-wheels-not-included.md",
   "sourceDirName": "Essays",
@@ -18,7 +18,7 @@
     "permalink": "/docs/Essays/about-essays"
   },
   "next": {
-    "title": "What I would give for two more hours",
+    "title": "What I Would Give For Two More Hours",
     "permalink": "/docs/Essays/what-I-would-give-for-two-more-hours"
   }
 }

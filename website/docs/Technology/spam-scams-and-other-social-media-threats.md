@@ -1,4 +1,4 @@
-# Spam, Scams and Other Social Media Threats
+# Spam, Scams, and Other Social Media Threats
 
 People’s lives are becoming more intertwined due to online interactions over time. While the Internet provides several options for users to create and maintain relationships, social media sites make it even easier to do so. Unfortunately, time spent on social media sites opens windows of opportunity for cybercriminals and online threats.
 

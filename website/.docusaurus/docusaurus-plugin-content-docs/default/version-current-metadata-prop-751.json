@@ -31,14 +31,14 @@
           },
           {
             "type": "link",
-            "label": "Training wheels not included",
+            "label": "Training Wheels Not Included",
             "href": "/docs/Essays/training-wheels-not-included",
             "docId": "Essays/training-wheels-not-included",
             "unlisted": false
           },
           {
             "type": "link",
-            "label": "What I would give for two more hours",
+            "label": "What I Would Give For Two More Hours",
             "href": "/docs/Essays/what-I-would-give-for-two-more-hours",
             "docId": "Essays/what-I-would-give-for-two-more-hours",
             "unlisted": false
@@ -60,7 +60,7 @@
           },
           {
             "type": "link",
-            "label": "Every day's a Sunday at Zuni",
+            "label": "Every Day's a Sunday at Zuni",
             "href": "/docs/Food and Travel/every-days-a-Sunday-at-Zuni",
             "docId": "Food and Travel/every-days-a-Sunday-at-Zuni",
             "unlisted": false
@@ -96,14 +96,14 @@
           },
           {
             "type": "link",
-            "label": "Mind-blowing Chips",
+            "label": "Mind-Blowing Chips",
             "href": "/docs/Technology/mind-blowing-chips",
             "docId": "Technology/mind-blowing-chips",
             "unlisted": false
           },
           {
             "type": "link",
-            "label": "Spam, Scams and Other Social Media Threats",
+            "label": "Spam, Scams, and Other Social Media Threats",
             "href": "/docs/Technology/spam-scams-and-other-social-media-threats",
             "docId": "Technology/spam-scams-and-other-social-media-threats",
             "unlisted": false
@@ -121,25 +121,25 @@
     },
     "Essays/training-wheels-not-included": {
       "id": "Essays/training-wheels-not-included",
-      "title": "Training wheels not included",
+      "title": "Training Wheels Not Included",
       "description": "Most kids get their first bicycles at age 5. I got mine at 30. For the longest time, I was secretly envious of bikers. But after years of not knowing how, I'd resigned myself to the fact that I couldn't ride a bike.",
       "sidebar": "aboutSidebar"
     },
     "Essays/what-I-would-give-for-two-more-hours": {
       "id": "Essays/what-I-would-give-for-two-more-hours",
-      "title": "What I would give for two more hours",
+      "title": "What I Would Give For Two More Hours",
       "description": "When I'm asked what I like about living in Taiwan, the efficient transportation system often tops the list. With its MRT lines, buses, and railway systems, getting around the island can be quite easy. Of course, only someone who's had to deal with less than ideal commuting experiences can fully appreciate the relief that comes with a functioning transport network.",
       "sidebar": "aboutSidebar"
     },
     "Food and Travel/about-food-travel": {
       "id": "Food and Travel/about-food-travel",
       "title": "Food and Travel",
-      "description": "I was a travel writer in a previous life, where I visited restaurants and stayed in hotels, and then I wrote about those awesome experiences.",
+      "description": "I was a travel writer in a previous life. I visited restaurants and stayed in hotels, and then I wrote about those awesome experiences.",
       "sidebar": "aboutSidebar"
     },
     "Food and Travel/every-days-a-Sunday-at-Zuni": {
       "id": "Food and Travel/every-days-a-Sunday-at-Zuni",
-      "title": "Every day's a Sunday at Zuni",
+      "title": "Every Day's a Sunday at Zuni",
       "description": "Something has to be said about Sundays and dinners with the family. A tradition that is passed down from generation to generation, Sunday dinners remain and continue to be a constant in many families. Perhaps it's the knowledge that it's the one day of the week when work and school can temporarily be forgotten that makes Sundays something to look forward to. In the Philippines and around the world, Sundays often stand for all things warm, cozy, and delectable.",
       "sidebar": "aboutSidebar"
     },
@@ -169,13 +169,13 @@
     },
     "Technology/mind-blowing-chips": {
       "id": "Technology/mind-blowing-chips",
-      "title": "Mind-blowing Chips",
+      "title": "Mind-Blowing Chips",
       "description": "For thousands of paralytics and quadriplegics, the hope of being able to move and function again like they did before is a far-off dream. But unknown to many, this dream may be realized sooner than they think.",
       "sidebar": "aboutSidebar"
     },
     "Technology/spam-scams-and-other-social-media-threats": {
       "id": "Technology/spam-scams-and-other-social-media-threats",
-      "title": "Spam, Scams and Other Social Media Threats",
+      "title": "Spam, Scams, and Other Social Media Threats",
       "description": "People’s lives are becoming more intertwined due to online interactions over time. While the Internet provides several options for users to create and maintain relationships, social media sites make it even easier to do so. Unfortunately, time spent on social media sites opens windows of opportunity for cybercriminals and online threats.",
       "sidebar": "aboutSidebar"
     }

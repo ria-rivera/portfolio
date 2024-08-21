@@ -1,6 +1,6 @@
 {
   "id": "Technology/mind-blowing-chips",
-  "title": "Mind-blowing Chips",
+  "title": "Mind-Blowing Chips",
   "description": "For thousands of paralytics and quadriplegics, the hope of being able to move and function again like they did before is a far-off dream. But unknown to many, this dream may be realized sooner than they think.",
   "source": "@site/docs/Technology/mind-blowing-chips.md",
   "sourceDirName": "Technology",
@@ -18,7 +18,7 @@
     "permalink": "/docs/Technology/blackhat-SEO-attacks-use-fake-YouTube"
   },
   "next": {
-    "title": "Spam, Scams and Other Social Media Threats",
+    "title": "Spam, Scams, and Other Social Media Threats",
     "permalink": "/docs/Technology/spam-scams-and-other-social-media-threats"
   }
 }

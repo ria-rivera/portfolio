@@ -1,7 +1,7 @@
 {
   "id": "Food and Travel/about-food-travel",
   "title": "Food and Travel",
-  "description": "I was a travel writer in a previous life, where I visited restaurants and stayed in hotels, and then I wrote about those awesome experiences.",
+  "description": "I was a travel writer in a previous life. I visited restaurants and stayed in hotels, and then I wrote about those awesome experiences.",
   "source": "@site/docs/Food and Travel/about-food-travel.md",
   "sourceDirName": "Food and Travel",
   "slug": "/Food and Travel/about-food-travel",
@@ -14,11 +14,11 @@
   "frontMatter": {},
   "sidebar": "aboutSidebar",
   "previous": {
-    "title": "What I would give for two more hours",
+    "title": "What I Would Give For Two More Hours",
     "permalink": "/docs/Essays/what-I-would-give-for-two-more-hours"
   },
   "next": {
-    "title": "Every day's a Sunday at Zuni",
+    "title": "Every Day's a Sunday at Zuni",
     "permalink": "/docs/Food and Travel/every-days-a-Sunday-at-Zuni"
   }
 }
